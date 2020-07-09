@@ -66,6 +66,8 @@
     </Compile>
     <Compile Include="_Ignition\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_Serial\Comunicacao.cs" />
+    <Compile Include="_Serial\Protocolo.cs" />
     <EmbeddedResource Include="_Forms\Inicial\formIncial.resx">
       <DependentUpon>formIncial.cs</DependentUpon>
     </EmbeddedResource>
